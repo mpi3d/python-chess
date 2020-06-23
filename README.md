@@ -4,6 +4,8 @@ Jeux d'échecs avec interface graphique
 
 Fonctionnant grâce à [JePyChess](https://github.com/Tazeg/JePyChess)
 
+![Python Chess](/python_chess.png)
+
 ## Install
 
 ``` sh
