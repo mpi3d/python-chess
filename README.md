@@ -2,6 +2,8 @@
 
 Jeux d'échecs avec interface graphique
 
+Fonctionnant grâce à [JePyChess](https://github.com/Tazeg/JePyChess)
+
 ## Install
 
 ``` sh
