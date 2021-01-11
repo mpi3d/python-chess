@@ -1,20 +1,20 @@
-# Python_Chess
+# Python Chess
 
-Jeux d'échecs avec interface graphique
+Chess games with graphical interface
 
-Fonctionnant grâce à [JePyChess](https://github.com/Tazeg/JePyChess)
+Working thanks to [JePyChess](https://github.com/Tazeg/JePyChess)
 
 [![Python Chess](/python_chess.png)](https://github.com/Tazeg/JePyChess)
 
 ## Install
 
 ``` sh
-git clone https://github.com/MPi3D/Python_Chess.git
+git clone https://github.com/mpi3d/python-chess.git
 ```
 
 ## Run
 
 ``` sh
-cd Python_Chess
-python3 échec.py
+cd python-chess
+python3 main.py
 ```
