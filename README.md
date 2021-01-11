@@ -1,6 +1,6 @@
 # Python Chess
 
-Chess games with graphical interface
+French chess games with graphical interface
 
 Working thanks to [JePyChess](https://github.com/Tazeg/JePyChess)
 
